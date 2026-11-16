@@ -1,0 +1,6 @@
+{
+    "sensorID": "s-001",
+    "sensorName": "DHT11",
+    "yearFabrication": 2022,
+    "calibrated": "yes"
+}
